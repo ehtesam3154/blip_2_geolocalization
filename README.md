@@ -4,3 +4,4 @@ Here I used BLIP'2 original framework from https://github.com/salesforce/LAVIS t
 
 Also tested with hybrid vqa approach (first open-ended vqa then close-ended) and retrieval-first-then-vqa approach (:
 
+Just paste all the code in the LAVIS folder after you clone LAVIS in your local machine or server
